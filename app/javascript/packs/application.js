@@ -8,3 +8,6 @@ import 'bootstrap/dist/css/bootstrap'
 import "@fortawesome/fontawesome-free/css/all"
 require("stylesheets/application.scss")
 
+
+require("trix")
+require("@rails/actiontext")
